@@ -1,0 +1,15 @@
+{
+  "name": "index1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@maticnetwork/maticjs": "^2.0.0-beta.9",
+    "@maticnetwork/meta": "^1.0.3"
+  }
+}
